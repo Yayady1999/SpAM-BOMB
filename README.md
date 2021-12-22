@@ -1,4 +1,4 @@
-# Email-Bomber
+# SpAM BOMB
 A python script for bombarding a target with spam emails.
 
 ## DISCLAIMER
